@@ -1,0 +1,27 @@
+html
+{
+	height:100%;
+}
+body
+{
+		background-image: url(pic2.jpg);
+		height: 100%
+		width:100%;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+}
+ 
+.row
+{
+	margin-left: auto; margin-right: auto;
+}
+
+ a,#span1
+ {
+ 	text-decoration: none;
+ 	color: black;
+ 	font-size: 45px;
+ 	text-align: end;
+ }
+
